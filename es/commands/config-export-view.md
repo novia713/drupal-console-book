@@ -31,3 +31,10 @@ drupal config:export:view viewid \
   --optional-config \
   --include-module-dependencies
 ```
+* Exportar como configuración para el módulo provisto, actualizando el info.yml del módulo con cualquier dependencia requerida desde la vista.
+```
+drupal config:export:view viewid \
+  --module="modulename" \
+  --optional-config \
+  --include-module-dependencies
+```

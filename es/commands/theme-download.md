@@ -10,7 +10,7 @@ thd
 ## Opciones disponibles
 Opción | Detalles
 -------|-------------
---composer | Use la opción --composer para llevar a cabo la descarga del tema con Composer
+--composer | commands.theme.download.options.composer
 
 ## Argumentos disponibles
 Argumento | Detalles

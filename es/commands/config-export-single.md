@@ -10,7 +10,7 @@ ces
 ## Opciones disponibles
 Opción | Detalles
 -------|-------------
---name | commands.config.export.single.options.name
+--name | Nombre de la configuración.
 --directory | commands.config.export.arguments.directory
 --module | Nombre del módulo.
 --include-dependencies | Exportar dependencias de la configuración también.
